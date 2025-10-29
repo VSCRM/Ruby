@@ -18,7 +18,7 @@
 
 1.  **Клонуйте репозиторій**:
     ```bash
-    git clone [https://github.com/VSCRM/Ruby.git]
+    git clone https://github.com/VSCRM/Ruby.git
     cd telegram-echo-bot
     ```
 2.  Переконайтеся, що у корені проєкту є файли **`Gemfile`** та **`bot.rb`**.
